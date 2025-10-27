@@ -36,10 +36,10 @@ Data Loading and Analysis
 	•	Low-Performing Items
 
   💡 Recommendations
-	1.	Increase stock and marketing focus on top-selling items.
-	2.	Launch morning promotions to capitalize on peak hours.
-	3.	Improve staff scheduling based on traffic trends.
-	4.	Review pricing and promotions for low-performing products.
+	1.Increase stock and marketing     focus on top-selling items.
+2.Launch morning promotions to capitalize on peak hours.
+	3.Improve staff scheduling based on traffic trends.
+	4.Review pricing and promotions for low-performing products.
 
 💻 Tools
 Snowflake
