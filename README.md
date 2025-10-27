@@ -30,10 +30,10 @@ Data Loading and Analysis
 	•	Store Performance by Location
 
   📊 Key Insights
-	•	Top Products: Certain premium coffee drinks and pastries generate the highest revenue.
-	•	Peak Hours: The store performs best between 8 AM – 10 AM (morning rush).
-	•	Weekly Trends: Fridays and weekends show higher transaction volumes.
-	•	Low-Performing Items: Identified products that underperform compared to the average revenue threshold.
+	•	Top Products
+	•	Peak Hour
+	•	Weekly Trends
+	•	Low-Performing Items
 
   💡 Recommendations
 	1.	Increase stock and marketing focus on top-selling items.
