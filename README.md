@@ -1,4 +1,4 @@
-☕ Bright Coffee Shop Data Analysis
+##☕ Bright Coffee Shop Data Analysis
 
 📋 Overview
 
